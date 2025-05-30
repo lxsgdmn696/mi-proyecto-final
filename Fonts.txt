@@ -1,0 +1,17 @@
+    <div class="contenedor_gif">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ3OWdpdDRkN25kdzVjZ3A2dGRqbmppcjliYWltYTNobW5xa21oZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PCFK39ruKPdnc4Km4h/giphy.gif"
+        alt="Espartano luchando contra los persas"
+        class="gif2">
+    </div>
+
+
+    https://calisthenics.com/wp-content/uploads/2025/02/full-planche-exercise.jpg
+    enlace calistenia estatica
+
+    https://lh3.googleusercontent.com/proxy/IPqW-fUn3QrH9dUIpPwae17UzDp63A-tHpOQ40DwBAyxV1sZF6xJJU4F27jf9FUvzPRq5_8gEcsiEuvBxW0MjkGnhTqi0edyy-AjJLLKU3hj12z9mbxC
+    enlace calistenia lastrada
+
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fignittion.es%2Fblogs%2Ftutoriales-calistenia%2F4-razones-por-las-que-deberias-hacer-freestyle-en-calistenia%2F&psig=AOvVaw3wa1WJJ57Gy93p-Bh9EHcH&ust=1747353290153000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDA0rKUpI0DFQAAAAAdAAAAABAE
+    enlace calistenia freestyle-dinamicos
+
+    
